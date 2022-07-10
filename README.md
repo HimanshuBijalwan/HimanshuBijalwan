@@ -13,7 +13,7 @@
 
 - :octocat: I’m looking to collaborate on **more Projects**
 
-- :octocat: I regularly write articles on [https://www.blisstripdestination.com/](Bliss Trip Destination) [https://raiwalaarea.blogspot.com](Raiwala Area Blog)
+- :octocat: I regularly write articles on <a href="https://www.blisstripdestination.com/">Bliss Trip Destination</a> & <a href="https://raiwalaarea.blogspot.com/">Raiwala Blog</a>
 
 - :octocat: Ask me about **Anything related to SEO & SMO**
 
